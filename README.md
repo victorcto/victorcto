@@ -14,7 +14,6 @@
   <li> Linguagem Python </li>
   <li> Linguagem C++ </li>
   <li> Data Science </li>
-  <li> Visão Computacional </li>
 </ul>
 <h5> Projetos </h5>
   <ul>
