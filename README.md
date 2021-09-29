@@ -18,4 +18,4 @@
 </ul>
 <h5> Projetos </h5>
   <ul>
-    <li><b> Como manipular PDF com Python:</b><a href="https://bityli.com/pTGoSo"> https://bityli.com/pTGoSo</a></li> 
+    <li><b> Como manipular PDF com Python:</b><a href="encurtador.com.br/jmsMQ">Clique aqui</a></li> 
