@@ -41,9 +41,9 @@ Eu sou um desenvolvedor Backend Java e estudante de graduação do curso de Tecn
 ## Estatísticas
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-      <img src="https://github-readme-stats.vercel.app/api?username=victorcto&theme=highcontrast">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=victorcto&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcto&layout=compact&theme=vision-friendly-dark">
+      <img width="300" src="https://github-readme-stats.vercel.app/api?username=victorcto&theme=highcontrast">
+      <img width="300" src="http://github-readme-streak-stats.herokuapp.com?user=victorcto&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D">
+      <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcto&layout=compact&theme=vision-friendly-dark">
   </div>
 </div>
 
